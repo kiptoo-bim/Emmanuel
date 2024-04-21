@@ -1,2 +1,5 @@
 # Emmanuel
-This is the First Demo of my Github Repository
+This is my First test demo to my Github Repository
+
+## Welcome, Join me in this Journey.
+See you.
